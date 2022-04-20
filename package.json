@@ -1,7 +1,17 @@
 {
-  "private": true,
+  "private": false,
   "name": "@sh/pc-library",
   "version": "1.0.0",
+  "keywords": [
+    "React",
+    "Component"
+  ],
+  "author": "mdyy",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/starlight321/sh-pc-libray.git"
+  },
   "scripts": {
     "start": "dumi dev",
     "docs:build": "dumi build",
